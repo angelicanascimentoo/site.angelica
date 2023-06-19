@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f66b9c;
+}
+.cabecalho {
+background-color: #eb729c;
+color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 30%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola{
+justify-content: center;
+align-items: center;
+padding: 27px 0;
+}
+
+.escola-div-conteudo{
+    black: 35%;
+}
+
+.escola-titulo{
+padding: 15px 0;
+}  
+
+.aluna-titulo{
+    padding: 30px 10;
+}
